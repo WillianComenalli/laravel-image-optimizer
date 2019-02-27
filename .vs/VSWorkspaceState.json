@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\src",
+    "\\tests",
+    "\\tests\\temp",
+    "\\tests\\testfiles"
+  ],
+  "SelectedNode": "\\composer.json",
+  "PreviewInSolutionExplorer": false
+}
