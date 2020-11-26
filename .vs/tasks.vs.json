@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "appliesTo": "config/image-optimizer.php",
+            "taskLabel": "tarefa-image-optimizer",
+            "type": "launch"
+        }
+    ],
+    "version": "0.2.1"
+}
